@@ -7,5 +7,5 @@
 
 2.  Mushroom Predictions: Using Keras eural network to make predictions
 
-3. Car Charger Predictions: Feature scaling, logistic regression
+3. Car Charger Predictions: Feature scaling, logistic regression, train/test data sets
 
