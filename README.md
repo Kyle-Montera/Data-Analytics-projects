@@ -9,3 +9,4 @@
 
 3. [Car Charger Predictions](https://github.com/Kyle-Montera/Data-Analytics-projects/tree/main/Vehicle%20Charger%20Predictions):  Feature scaling, logistic regression, train/test data sets
 
+4. [Factors contributing to employee attrition](https://github.com/Kyle-Montera/Data-Analytics-projects/tree/main/Employee%20Attrition): Logistic regression
