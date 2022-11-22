@@ -7,6 +7,6 @@
 
 2. [Mushroom Predictions](https://github.com/Kyle-Montera/Data-Analytics-projects/tree/main/Poison%20Mushrooms):  Using Keras neural network to make predictions
 
-3. [Car Charger Predictions](https://github.com/Kyle-Montera/Data-Analytics-projects/tree/main/Vehicle%20Charger%20Predictions):  Feature scaling, logistic regression, train/test data sets
+3. [Car Charger Predictions](https://github.com/Kyle-Montera/Data-Analytics-projects/tree/main/Vehicle%20Charger%20Predictions): K means Clustering, Feature scaling, Linear Regression, train/test data sets
 
 4. [Employee Attrition](https://github.com/Kyle-Montera/Data-Analytics-projects/tree/main/Employee%20Attrition): Logistic regression
